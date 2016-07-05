@@ -1,0 +1,11 @@
+推荐使用配置
+tomcat7.0 +
+jdk 1.8 
+
+访问地址：
+localhost:8080/shopping
+首页：
+localhost:8080/shopping/goods.do
+
+默认账号密码：
+admin admin
